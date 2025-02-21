@@ -17,7 +17,6 @@ Acesse o documento completo aqui: [Mais informações sobre o projeto](https://e
 ✅ Inscrição de participantes com nome e e-mail  
 ✅ Geração de link único para indicar amigos  
 ✅ Ranking de indicações atualizado em tempo real  
-✅ Interface simples para gerenciamento dos eventos  
 
 ## 🛠 Tecnologias Utilizadas  
 
@@ -74,4 +73,4 @@ mvn spring-boot:run
 
 ## 💡 Contribuição  
 
-Se quiser melhorar algo ou adicionar mais funcionalidades, fique à vontade para abrir um pull request ou sugerir mudanças! 😊  
+Se quiser melhorar algo ou adicionar mais funcionalidades, fique à vontade para abrir um pull request ou sugerir mudanças! Obrigado 😊  

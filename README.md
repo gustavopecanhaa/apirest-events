@@ -3,7 +3,7 @@
 
 # 📌 API Rest - Inscrições em Eventos.  
 
-Este projeto foi desenvolvido com fins estudantis e tem como objetivo facilitar o processo de inscrições e indicações em eventos. Com ele, os participantes podem se cadastrar, indicar amigos e acompanhar um ranking de indicações. 
+**Este projeto foi desenvolvido com fins estudantis** e tem como objetivo facilitar o processo de inscrições e indicações em eventos. Com ele, os participantes podem se cadastrar, indicar amigos e acompanhar um ranking de indicações. 
 
 ## 🚀 Sobre o Projeto  
 

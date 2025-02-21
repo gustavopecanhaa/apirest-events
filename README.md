@@ -1,7 +1,7 @@
 
 ![Events2](https://github.com/user-attachments/assets/be5f52d3-da7f-45b9-9868-9b3c76dbb4eb)
 
-# 📌 API de Inscrições em Eventos  
+# 📌 API - Inscrições em Eventos.  
 
 Esse projeto foi desenvolvido para facilitar o processo de inscrições e indicações em eventos. Com ele, os participantes podem se cadastrar, indicar amigos e acompanhar um ranking de indicações.  
 

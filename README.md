@@ -41,12 +41,12 @@ Antes de começar, você precisa ter instalado:
 
 1️⃣ **Clone o repositório:**  
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/gustavopecanhaa/apirest-events.git
 ```  
 
 2️⃣ **Entre na pasta do projeto:**  
 ```bash
-cd nome-do-repositorio
+cd apirest-events
 ```  
 
 3️⃣ **Configure o banco de dados**  

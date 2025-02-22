@@ -50,10 +50,10 @@ cd nome-do-repositorio
 ```  
 
 3️⃣ **Configure o banco de dados**  
-- Crie um banco de dados no MySQL com o nome `eventos_db`  
+- Crie um banco de dados no MySQL com o nome `db_events`  
 - No arquivo `application.properties`, configure as credenciais do MySQL:  
   ```
-  spring.datasource.url=jdbc:mysql://localhost:3306/eventos_db
+  spring.datasource.url=jdbc:mysql://localhost:3306/db_events
   spring.datasource.username=seu_usuario
   spring.datasource.password=sua_senha
   ```  
